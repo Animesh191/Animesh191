@@ -1,4 +1,4 @@
-<H1>Hi I am Animesh</H1>
+<H1>Hi<span>👋 I am Animesh</H1>
 <ul>
 <li><h4><span>Competitive Programmer<span></li>
 <li><h4><span>MERN Developer<span></li>
