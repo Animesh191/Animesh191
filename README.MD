@@ -5,4 +5,4 @@
 <li><h4><span>Problem Solver<span></li>
 <li><h4><span>Astronomy Addict<span></li>
 </ul>
-<h4><span><i>and</i>a Btech Student<span>
+<h4><span><i>and a</i> Btech Student<span>
